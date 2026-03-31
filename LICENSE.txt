@@ -1,0 +1,71 @@
+PIT WALL — iRacing Engineering Tool
+Proprietary Licence
+
+Copyright (c) 2026 PIT WALL. All rights reserved.
+
+────────────────────────────────────────────────────────────────
+
+PERSONAL USE LICENCE
+
+Permission is granted, free of charge, to any individual to use
+this software for personal, non-commercial purposes, subject to
+the following conditions:
+
+1. PERMITTED USE
+   You may download, run, and use PIT WALL for your own personal
+   sim racing activity at no cost.
+
+   You may share the unmodified file with other individuals for
+   their personal use, provided this licence notice is retained
+   and no charge is made for the sharing.
+
+2. RESTRICTIONS
+   You may NOT, without prior written permission from the author:
+
+   a) Sell, sublicence, or charge for access to this software
+      or any part of it.
+
+   b) Incorporate this software, or any substantial portion of
+      its code, into another product or service — whether free
+      or commercial.
+
+   c) Rebrand, rename, or redistribute this software as your
+      own work.
+
+   d) Use the coaching data, setup baselines, circuit zone data,
+      or any structured content within this software as the basis
+      for a competing product or service.
+
+   e) Reverse engineer this software for the purpose of
+      replicating or competing with it commercially.
+
+3. INTELLECTUAL PROPERTY
+   All source code, coaching content, setup data, circuit zone
+   definitions, and design work contained in this software remain
+   the exclusive intellectual property of the author.
+
+4. NO WARRANTY
+   This software is provided "as is", without warranty of any
+   kind. The author makes no guarantees regarding accuracy of
+   coaching advice, setup recommendations, or telemetry analysis.
+   Use at your own risk. Setup changes should always be tested
+   carefully before competitive use.
+
+5. DATA PRIVACY
+   This software runs entirely in your browser. No telemetry
+   data, session data, or personal information is transmitted
+   to any server. All analysis is performed locally on your
+   own device.
+
+6. iRACING DISCLAIMER
+   PIT WALL is an independent tool and is not affiliated with,
+   endorsed by, or officially connected to iRacing.com
+   Motorsport Simulations. iRacing is a registered trademark
+   of iRacing.com Motorsport Simulations, LLC.
+
+────────────────────────────────────────────────────────────────
+
+For commercial licencing enquiries, partnership discussions,
+or permission requests, contact the author directly.
+
+────────────────────────────────────────────────────────────────
